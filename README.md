@@ -22,6 +22,17 @@
 - [ ] Armstrong number check  
 - [ ] Number reverse program
 
+### Day 20-30: Java Core
+- [x] HashMap
+- [ ] ArrayList
+- [ ] LinkedList
+- [ ] HashSet
+
+### Day 30-35: Arrays and Strings
+ - [x] Finding the max number in array
+ - [x] Finding the lowest number in array
+ 
+
 
 ---
 

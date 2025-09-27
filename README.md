@@ -1,7 +1,6 @@
 ---
 
-## 📘 Days 1–20: Java Fundamentals
-
+### 📘 Days 1–20: Java Fundamentals
 - [ ] Print "Hello World"  
 - [ ] Variables & data types (declare and print all types)  
 - [x] Arithmetic operations  

@@ -32,6 +32,7 @@
  - [x] Finding the max number in array
  - [x] Finding the lowest number in array
  - [x] Binary Search
+ - [x] Linear Search 
  
 
 

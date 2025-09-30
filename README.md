@@ -14,7 +14,7 @@
 - [ ] Nested loops  
 - [ ] Break & continue  
 - [ ] Simple calculator using switch  
-- [ ] Multiplication table generator  
+- [x] Multiplication table generator  
 - [ ] Factorial of a number (loop)  
 - [ ] Fibonacci series  
 - [ ] Prime number check  
@@ -32,6 +32,7 @@
  - [x] Finding the max number in array
  - [x] Finding the lowest number in array
  - [x] Binary Search
+ - [x] Linear Search 
  
 
 

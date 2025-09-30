@@ -1,5 +1,7 @@
 package Arrays_and_Strings;
 
+ import java.util.Collections;
+ import java.util.Comparator;
 
 public class Reverse_array {
        public static void reverse_array(int[] arr){

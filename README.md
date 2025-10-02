@@ -34,6 +34,7 @@
  - [x] Binary Search
  - [x] Linear Search
  - [x] Reverse Array
+ - [x] 2d Array
  
 
 

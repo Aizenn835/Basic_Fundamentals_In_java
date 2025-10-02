@@ -17,10 +17,10 @@
 - [x] Multiplication table generator  
 - [ ] Factorial of a number (loop)  
 - [ ] Fibonacci series  
-- [ ] Prime number check  
+- [x] Prime number check  
 - [ ] Palindrome number check  
 - [ ] Armstrong number check  
-- [ ] Number reverse program
+
 
 ### Day 20-30: Java Core
 - [x] HashMap

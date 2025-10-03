@@ -24,7 +24,7 @@
 
 ### Day 20-30: Java Core
 - [x] HashMap
-- [ ] ArrayList
+- [x] ArrayList
 - [ ] LinkedList
 - [ ] HashSet
 

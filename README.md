@@ -28,7 +28,7 @@
 - [x] LinkedList
 - [ ] HashSet
 
-### Day 30-35: Arrays and Strings
+### Day 30-35: Arrays and Strings:
  - [x] Finding the max number in array
  - [x] Finding the lowest number in array
  - [x] Binary Search

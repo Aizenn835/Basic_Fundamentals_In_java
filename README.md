@@ -22,7 +22,7 @@
 - [ ] Armstrong number check  
 
 
-### Day 20-30: Java Core
+### Day 20-30: Java Core:
 - [x] HashMap
 - [x] ArrayList
 - [x] LinkedList

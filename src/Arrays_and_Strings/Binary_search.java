@@ -28,7 +28,7 @@ package Array_and_Strings;
 
                int result = binary_searching(array , target);
 
-                 if(target != -1){
+                 if(result != -1){
                      System.out.println("Element of number is: " + result );
                  }
                  else{

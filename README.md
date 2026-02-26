@@ -11,7 +11,7 @@
 - [x] Loops – for loop basics  
 - [ ] Loops – while loop  
 - [ ] Loops – do while  
-- [ ] Nested loops  
+- [x] Nested loops  
 - [ ] Break & continue  
 - [ ] Simple calculator using switch  
 - [x] Multiplication table generator  

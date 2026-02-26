@@ -12,7 +12,7 @@
 - [ ] Loops – while loop  
 - [ ] Loops – do while  
 - [x] Nested loops  
-- [ ] Break & continue  
+- [x] Break & continue  
 - [ ] Simple calculator using switch  
 - [x] Multiplication table generator  
 - [ ] Factorial of a number (loop)  

@@ -4,7 +4,7 @@
 - [x] Print "Hello World"  
 - [ ] Variables & data types (declare and print all types)  
 - [x] Arithmetic operations  
-- [ ] Input/output using Scanner  
+- [x] Input/output using Scanner  
 - [ ] If-else conditions  
 - [ ] Nested if  
 - [ ] Switch case  

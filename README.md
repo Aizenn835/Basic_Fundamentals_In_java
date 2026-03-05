@@ -9,7 +9,7 @@
 - [ ] Nested if  
 - [ ] Switch case  
 - [x] Loops – for loop basics  
-- [ ] Loops – while loop  
+- [x] Loops – while loop  
 - [ ] Loops – do while  
 - [x] Nested loops  
 - [x] Break & continue  

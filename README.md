@@ -9,13 +9,13 @@
 - [ ] Nested if  
 - [ ] Switch case  
 - [x] Loops – for loop basics  
-- [ ] Loops – while loop  
+- [x] Loops – while loop  
 - [ ] Loops – do while  
 - [x] Nested loops  
 - [x] Break & continue  
 - [ ] Simple calculator using switch  
 - [x] Multiplication table generator  
-- [ ] Factorial of a number (loop)  
+- [x] Factorial of a number (loop)  
 - [ ] Fibonacci series  
 - [x] Prime number check  
 - [ ] Palindrome number check  

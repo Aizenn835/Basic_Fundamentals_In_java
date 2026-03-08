@@ -5,7 +5,7 @@
 - [ ] Variables & data types (declare and print all types)  
 - [x] Arithmetic operations  
 - [x] Input/output using Scanner  
-- [ ] If-else conditions  
+- [x] If-else conditions  
 - [ ] Nested if  
 - [ ] Switch case  
 - [x] Loops – for loop basics  

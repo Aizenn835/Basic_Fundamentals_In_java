@@ -7,7 +7,7 @@
 - [x] Input/output using Scanner  
 - [x] If-else conditions  
 - [ ] Nested if  
-- [ ] Switch case  
+- [x] Switch case  
 - [x] Loops – for loop basics  
 - [x] Loops – while loop  
 - [ ] Loops – do while  

@@ -13,7 +13,6 @@ public class Factorial {
         for(int i = n; i > 0; i--){
             sum*=i;
         }
-
         System.out.println("Total: " + sum);
     }
 }

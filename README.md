@@ -2,7 +2,7 @@
 
 ### 📘 Days 1–20: Java Fundamentals:
 - [x] Print "Hello World"  
-- [ ] Variables & data types (declare and print all types)  
+- [x] Variables & data types (declare and print all types)  
 - [x] Arithmetic operations  
 - [x] Input/output using Scanner  
 - [x] If-else conditions  
